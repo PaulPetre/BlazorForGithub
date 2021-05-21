@@ -17,19 +17,16 @@ jobs:
       uses: actions/setup-dotnet@v1
       with:
         dotnet-version: 5.0.201
-    - name: Publish app
-      run: dotnet publish -c Release
-    - name: Rewrite base href
-      uses: BlazorForGithub/ghaction-rewrite-base-href@v1
-      with:
-        html_path: ${{ env.PUBLISH_DIR }}/index.html
-        base_href: /BlazorForGithub/
+    # publishes Blazor project to the release-folder
+    - name: Publish .NET Core Project
+      run: dotnet publish BlazorForGithub/BlazorForGithub/BlazorForGithub.csproj -c Release -o release --nologo
 
-    - name: GitHub Pages
-      if: success()
-      uses: crazy-max/ghaction-github-pages@v1.5.1
+    # add .nojekyll file to tell GitHub pages to not treat this as a Jekyll project. (Allow files and folders starting with an underscore)
+    - name: Add .nojekyll file
+      run: touch release/wwwroot/.nojekyll
+    - name: Commit wwwroot to GitHub Pages
+      uses: JamesIves/github-pages-deploy-action@3.7.1
       with:
-        target_branch: gh-pages
-        build_dir: ${{ env.PUBLISH_DIR }}
-      env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH: gh-pages
+        FOLDER: release/wwwroot
