@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BlazorForGithub.Shared/1.0.0": {
+        "dependencies": {
+          "AKSoftware.WebApi": "3.0.1"
+        },
+        "runtime": {
+          "BlazorForGithub.Shared.dll": {}
+        }
+      },
+      "AKSoftware.WebApi/3.0.1": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AKSoftware.WebApi.dll": {
+            "assemblyVersion": "3.0.1.0",
+            "fileVersion": "3.0.1.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlazorForGithub.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AKSoftware.WebApi/3.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ngIG2OFvGVgB0Vw2ge0QBJQpxb7WH688UxWal6GTKZDfeNfHfNQaVd6kkt/+j3Y350bWnS6quIFZY2ZWOBaQcQ==",
+      "path": "aksoftware.webapi/3.0.1",
+      "hashPath": "aksoftware.webapi.3.0.1.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IvJe1pj7JHEsP8B8J8DwlMEx8UInrs/x+9oVY+oCD13jpLu4JbJU2WCIsMRn5C4yW9+DgkaO8uiVE5VHKjpmdQ==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
+    }
+  }
+}

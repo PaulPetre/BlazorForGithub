@@ -1,0 +1,12 @@
+C:\Paul\BlazorForGithub\BlazorForGithub\BlazorForGithub.Shared\bin\Debug\net5.0\BlazorForGithub.Shared.deps.json
+C:\Paul\BlazorForGithub\BlazorForGithub\BlazorForGithub.Shared\bin\Debug\net5.0\BlazorForGithub.Shared.dll
+C:\Paul\BlazorForGithub\BlazorForGithub\BlazorForGithub.Shared\bin\Debug\net5.0\ref\BlazorForGithub.Shared.dll
+C:\Paul\BlazorForGithub\BlazorForGithub\BlazorForGithub.Shared\bin\Debug\net5.0\BlazorForGithub.Shared.pdb
+C:\Paul\BlazorForGithub\BlazorForGithub\BlazorForGithub.Shared\obj\Debug\net5.0\BlazorForGithub.Shared.csprojAssemblyReference.cache
+C:\Paul\BlazorForGithub\BlazorForGithub\BlazorForGithub.Shared\obj\Debug\net5.0\BlazorForGithub.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Paul\BlazorForGithub\BlazorForGithub\BlazorForGithub.Shared\obj\Debug\net5.0\BlazorForGithub.Shared.AssemblyInfoInputs.cache
+C:\Paul\BlazorForGithub\BlazorForGithub\BlazorForGithub.Shared\obj\Debug\net5.0\BlazorForGithub.Shared.AssemblyInfo.cs
+C:\Paul\BlazorForGithub\BlazorForGithub\BlazorForGithub.Shared\obj\Debug\net5.0\BlazorForGithub.Shared.csproj.CoreCompileInputs.cache
+C:\Paul\BlazorForGithub\BlazorForGithub\BlazorForGithub.Shared\obj\Debug\net5.0\BlazorForGithub.Shared.dll
+C:\Paul\BlazorForGithub\BlazorForGithub\BlazorForGithub.Shared\obj\Debug\net5.0\ref\BlazorForGithub.Shared.dll
+C:\Paul\BlazorForGithub\BlazorForGithub\BlazorForGithub.Shared\obj\Debug\net5.0\BlazorForGithub.Shared.pdb
