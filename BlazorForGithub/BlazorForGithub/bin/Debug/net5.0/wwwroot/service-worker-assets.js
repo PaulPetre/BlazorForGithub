@@ -101,7 +101,7 @@
       "url": "_content\/Radzen.Blazor\/Radzen.Blazor.js"
     },
     {
-      "hash": "sha256-3xpHy\/0xnHEREaZREHoZfyy7g5jOQEcTB7vQK52BsFw=",
+      "hash": "sha256-LUvXTW3RLkhy7Uzc9pmwG5ptfktf4c1FgTaDaeCnOxc=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -913,19 +913,19 @@
       "url": "_framework\/dotnet.5.0.5.js"
     },
     {
-      "hash": "sha256-Dfz1ZjHx3DYlWUZIjv5Csy+11hZll9EMSiLxPFb8KqE=",
+      "hash": "sha256-eElmebIH9nGNL8bZcQuv5LkDeaO6RzWqTVr\/3+tIj4Y=",
       "url": "_framework\/BlazorForGithub.Shared.dll"
     },
     {
-      "hash": "sha256-IIsOZTbpcOlMjMzLpjp0KNMnC4lr\/c2DKkdqR69ylTY=",
+      "hash": "sha256-REN6mfCzirFM5VV7vfZG\/yJmsO8KfjPhRNo6Nocxy+k=",
       "url": "_framework\/BlazorForGithub.Shared.pdb"
     },
     {
-      "hash": "sha256-489WvqNE1AvTjZaBF8fSpLQSmI2GsatipWRTA7cga78=",
+      "hash": "sha256-+Ensn1KmXJMXoB5xkL805J9FPYLC76GgVB3YN\/mm1t0=",
       "url": "_framework\/BlazorForGithub.dll"
     },
     {
-      "hash": "sha256-V7WQxYi7NUod7m2uGzLfeLTCzeNnIfoX0F+2\/RIEfXs=",
+      "hash": "sha256-+ldkyjJInR+79mpOwHRjcsX3WaipQBfFU5fs5ELkuWE=",
       "url": "_framework\/BlazorForGithub.pdb"
     },
     {
@@ -1741,8 +1741,16 @@
       "url": "_framework\/dotnet.5.0.5.js.gz"
     },
     {
-      "hash": "sha256-E5mJZ6tT9vGFwiuO\/mFQopwkp8R+Uo7ZV9x9ZYH3b4Y=",
+      "hash": "sha256-JtRtRf5KKVzlMKI4jaRrMP0Pmfi7M1f9oV4FYp\/t5qE=",
       "url": "_framework\/BlazorForGithub.Shared.dll.gz"
+    },
+    {
+      "hash": "sha256-8ZRc1sGeVrPBx4lD717BgRaQekyh78QKV9SKsdt638U=",
+      "url": ".nojekyll"
+    },
+    {
+      "hash": "sha256-QsQVbG77EjG5r9sSpCxiXhaGosuvkkAiGAei5Fuv19s=",
+      "url": "404.html"
     },
     {
       "hash": "sha256-k5bH6cCkViXVevA7B0N92hQfdMVkOV3Rf9UrMy8K\/QY=",
@@ -1821,5 +1829,5 @@
       "url": "BlazorForGithub.bundle.scp.css"
     }
   ],
-  "version": "h9sVCmpr"
+  "version": "Z3YuPFkD"
 };
