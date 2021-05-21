@@ -137,7 +137,7 @@ using Microsoft.AspNetCore.Authorization;
        
     protected override void OnInitialized()
     {
-        navigationManager.NavigateTo("/BlazorForGithub/auth/login");
+        navigationManager.NavigateTo("/auth/login");
     }
 
 #line default

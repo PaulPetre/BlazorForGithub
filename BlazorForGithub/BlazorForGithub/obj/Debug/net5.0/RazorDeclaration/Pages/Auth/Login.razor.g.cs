@@ -146,7 +146,7 @@ using System.Security.Claims;
 #line hidden
 #nullable disable
     [Microsoft.AspNetCore.Components.LayoutAttribute(typeof(AuthLayout))]
-    [Microsoft.AspNetCore.Components.RouteAttribute("/BlazorForGithub/auth/login")]
+    [Microsoft.AspNetCore.Components.RouteAttribute("/auth/login")]
     public partial class Login : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998

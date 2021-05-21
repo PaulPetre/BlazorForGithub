@@ -101,7 +101,7 @@
       "url": "_content\/Radzen.Blazor\/Radzen.Blazor.js"
     },
     {
-      "hash": "sha256-LUvXTW3RLkhy7Uzc9pmwG5ptfktf4c1FgTaDaeCnOxc=",
+      "hash": "sha256-RjvXhDAYsSqLn6ZwnfgFC69eoAqYCT60oKJV3vrd86U=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -921,11 +921,11 @@
       "url": "_framework\/BlazorForGithub.Shared.pdb"
     },
     {
-      "hash": "sha256-+Ensn1KmXJMXoB5xkL805J9FPYLC76GgVB3YN\/mm1t0=",
+      "hash": "sha256-ce7epduDHl1pvd3g9JU8yGjvmzJZu5miZmEprRukB+g=",
       "url": "_framework\/BlazorForGithub.dll"
     },
     {
-      "hash": "sha256-+ldkyjJInR+79mpOwHRjcsX3WaipQBfFU5fs5ELkuWE=",
+      "hash": "sha256-sb+gVGNR1PsellAj0efeKfMUX2\/pqDqouq71wMHtFTk=",
       "url": "_framework\/BlazorForGithub.pdb"
     },
     {
@@ -1809,7 +1809,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-dOFFqfSXsr3Vghy16YwEzZTZoAT\/BnYshztlBI0YDAE=",
+      "hash": "sha256-Re0GWrqsH\/VDDUsDPADmB4hJ0yQixy9EqKU0p2Rx+cw=",
       "url": "index.html"
     },
     {
@@ -1829,5 +1829,5 @@
       "url": "BlazorForGithub.bundle.scp.css"
     }
   ],
-  "version": "Z3YuPFkD"
+  "version": "KwHSfOkN"
 };

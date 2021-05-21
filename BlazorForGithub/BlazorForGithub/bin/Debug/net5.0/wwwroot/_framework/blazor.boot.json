@@ -203,12 +203,12 @@
       "netstandard.dll": "sha256-stWPH7tpmfc4JFroiKGKWcPfLQ+ALD6yQUXA9NiV0fQ=",
       "System.Private.CoreLib.dll": "sha256-PbMTdb+kswRpFmuD8S4hY70nkZ9LeYJg7y3wm7hj0CQ=",
       "BlazorForGithub.Shared.dll": "sha256-eElmebIH9nGNL8bZcQuv5LkDeaO6RzWqTVr\/3+tIj4Y=",
-      "BlazorForGithub.dll": "sha256-+Ensn1KmXJMXoB5xkL805J9FPYLC76GgVB3YN\/mm1t0="
+      "BlazorForGithub.dll": "sha256-ce7epduDHl1pvd3g9JU8yGjvmzJZu5miZmEprRukB+g="
     },
     "lazyAssembly": null,
     "pdb": {
       "BlazorForGithub.Shared.pdb": "sha256-REN6mfCzirFM5VV7vfZG\/yJmsO8KfjPhRNo6Nocxy+k=",
-      "BlazorForGithub.pdb": "sha256-+ldkyjJInR+79mpOwHRjcsX3WaipQBfFU5fs5ELkuWE="
+      "BlazorForGithub.pdb": "sha256-sb+gVGNR1PsellAj0efeKfMUX2\/pqDqouq71wMHtFTk="
     },
     "runtime": {
       "dotnet.timezones.blat": "sha256-SQvzbzBfueaAxSKIKE1khBH02NH2MJJaWDBav\/S5MSs=",
