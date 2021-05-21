@@ -139,7 +139,7 @@ using Microsoft.AspNetCore.Authorization;
     {
         var localStateProvider = (LocalAuthenticationStateProvider) authenticationStateProvider;
         await localStateProvider.LogoutAsync();
-        navigationManager.NavigateTo("/BlazorForGithub/auth/login");
+        navigationManager.NavigateTo("/auth/login");
     }
 
 #line default
