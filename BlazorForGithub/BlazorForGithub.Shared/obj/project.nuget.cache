@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "cRgiW0fBlxU/CxTfV5An5zqKdg5CDdqpyA7ldtxiHZAWju3sHvnYdKLceQVOkanzC8rCFP8qm58tsNrK9rJNZw==",
+  "dgSpecHash": "r+hWslx51aPtoV9W6htY1Ipq9YSN6EHB8r/xNRjPqRN3BJeIO2MuM6ZIMOJ4oMbEmskD+oBlYOUVWGoz9HGlig==",
   "success": true,
-  "projectFilePath": "C:\\Paul\\BlazorForGithub\\BlazorForGithub\\BlazorForGithub.Shared\\BlazorForGithub.Shared.csproj",
+  "projectFilePath": "C:\\git\\BlazorForGithub\\BlazorForGithub\\BlazorForGithub.Shared\\BlazorForGithub.Shared.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Administrator\\.nuget\\packages\\aksoftware.webapi\\3.0.1\\aksoftware.webapi.3.0.1.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
+    "C:\\Users\\paulp\\.nuget\\packages\\aksoftware.webapi\\3.0.1\\aksoftware.webapi.3.0.1.nupkg.sha512",
+    "C:\\Users\\paulp\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512"
   ],
   "logs": []
 }
