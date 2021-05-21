@@ -313,7 +313,7 @@
       "url": "_framework\/BlazorForGithub.Shared.dll"
     },
     {
-      "hash": "sha256-q3JEMCTu4xYaa4rjD38KYdhPryBwnUjGe0lxdFCj60Q=",
+      "hash": "sha256-Ru3wwpUpHkC5u8+OJuWUkyaJQ3q2dxRLcnjmLNsLlv0=",
       "url": "_framework\/BlazorForGithub.dll"
     },
     {
@@ -477,7 +477,7 @@
       "url": "_framework\/System.Private.CoreLib.dll"
     },
     {
-      "hash": "sha256-gpx5oagW2kdWnnnQu5TYObI7LyG0zCsIFKHr\/DJmGXM=",
+      "hash": "sha256-pVUH6Ie3vuDNnQ4avVT1DN8wQgtf0HV9y9EXwa1V00s=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -485,5 +485,5 @@
       "url": "_framework\/blazor.webassembly.js"
     }
   ],
-  "version": "eA4PEvnG"
+  "version": "TdrLnCny"
 };
